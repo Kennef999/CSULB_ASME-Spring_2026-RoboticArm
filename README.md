@@ -39,4 +39,5 @@ Brian Vu: https://www.linkedin.com/in/brianpvu/
 
 
 Special thanks to: 
+
 Jon Tolden: https://www.linkedin.com/in/jontolden/
