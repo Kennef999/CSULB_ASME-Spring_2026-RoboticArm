@@ -7,7 +7,8 @@ This code runs on an ESP32 and controls four servos corresponding to base rotati
 ## Hardware
 - ESP32
 - HS-422 servos (x4)
-- Power supplied by two 18650 Li-ion batteries, a power distribution board, and a 3.3V regulator
+- PCA9685 servo driver
+- Power supplied by two 18650 Li-ion batteries, a power distribution board, a buck converter, and a 3.3V regulator
 
 ## Joint Ranges
 Determined through testing rather than calculation:
